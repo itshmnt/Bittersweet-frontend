@@ -1,4 +1,4 @@
-import { Chat, NotificationAdd, Notifications, Person, Search } from "@mui/icons-material"
+import { Chat, Notifications, Person, Search } from "@mui/icons-material"
 import "./topbar.css"
 
 export default function Topbar() {
